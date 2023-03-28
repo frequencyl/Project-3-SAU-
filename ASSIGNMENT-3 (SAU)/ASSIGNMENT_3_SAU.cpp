@@ -1,5 +1,5 @@
 //***********************************************************************
-//******		STUDENT NAME : OZAN GÜL							*********
+//******		STUDENT NAME : OZAN GÃœL							*********
 //****			STUDENT NUMBER : B211202036						*********
 //******		ASSIGNMENT#3: Write a c++ code which creates    *********
 //******		random alphabet matrix, requests words from user ********
